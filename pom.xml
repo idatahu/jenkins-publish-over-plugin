@@ -37,7 +37,7 @@
     <artifactId>publish-over</artifactId>
     <packaging>hpi</packaging>
     <name>Infrastructure plugin for Publish Over X</name>
-    <version>0.22</version>
+    <version>0.22-idata-1</version>
     <description>Send build artifacts somewhere.</description>
     
     <properties>
